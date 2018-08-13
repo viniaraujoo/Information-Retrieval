@@ -7,7 +7,7 @@ Are they:
 3. Expansion of Queries
 4. PageRank
 
-These algorithms were applied in a database of the Jornal [Estadão] (https://www.estadao.com.br/). Whereas the dataset was provided during the course.
+These algorithms were applied in a database of the Jornal [Estadão](https://www.estadao.com.br/). Whereas the dataset was provided during the course.
 
-By Fim, a Recommendation Systems (films or news) project was developed, based on the [Surprise] (http://surpriselib.com/) library applied to the data set (Movielens-100k) [https://grouplens.org / datasets / movielens / 100k /], the final project is in [repository] [https://github.com/viniaraujoo/Recommender-system].
+By Fim, a Recommendation Systems (films or news) project was developed, based on the [Surprise](http://surpriselib.com/) library applied to the data set [Movielens-100k](https://grouplens.org/datasets/movielens/100k/), the final project is in [repository](https://github.com/viniaraujoo/Recommender-system).
 
