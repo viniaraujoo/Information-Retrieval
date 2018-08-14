@@ -1,5 +1,5 @@
 # Information Retrieval
-Repository containing activity developed during the discipline of Information Retrieval and Web Search - UFCG in the period of 2018.1
+Repository containing activity developed during the discipline of Information Retrieval and Web Search - UFCG in the period of 2018.1 (professor: Leandro Balby).
 During the course we developed the following algorithms in the Python language, such algorithms very useful in the area of data science and the like.
 Are they:
 1. Inverted Index and Boolean Search
